@@ -1,0 +1,1 @@
+{{"Kyiv", "London", "Madrid", "Paris", "Rome"}, {"Berlin", "London", "Madrid", "Paris", "Rome"}, {"Berlin", "Kyiv", "Madrid", "Paris", "Rome"}, {"Berlin", "Kyiv", "London", "Paris", "Rome"}, {"Berlin", "Kyiv", "London", "Madrid", "Rome"}, {"Berlin", "Kyiv", "London", "Madrid", "Paris"}}

@@ -1,0 +1,1 @@
+{Entity["City", {"Berlin", "Berlin", "Germany"}], Entity["City", {"Kiev", "Kiev", "Ukraine"}], Entity["City", {"London", "GreaterLondon", "UnitedKingdom"}], Entity["City", {"Madrid", "Madrid", "Spain"}], Entity["City", {"Paris", "IleDeFrance", "France"}], Entity["City", {"Rome", "Lazio", "Italy"}]}
